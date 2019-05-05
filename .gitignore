@@ -1,0 +1,10 @@
+/.idea
+/.idea/*
+/config.php
+/upload
+/nbproject
+/js
+/css
+/images
+/install_db
+/tpl
